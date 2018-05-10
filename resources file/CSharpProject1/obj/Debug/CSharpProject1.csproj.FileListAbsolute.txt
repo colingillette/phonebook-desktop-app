@@ -1,0 +1,11 @@
+c:\users\eric\documents\visual studio 2013\Projects\CSharpProject1\CSharpProject1\bin\Debug\CSharpProject1.exe.config
+c:\users\eric\documents\visual studio 2013\Projects\CSharpProject1\CSharpProject1\obj\Debug\CSharpProject1.Form1.resources
+c:\users\eric\documents\visual studio 2013\Projects\CSharpProject1\CSharpProject1\obj\Debug\CSharpProject1.Properties.Resources.resources
+c:\users\eric\documents\visual studio 2013\Projects\CSharpProject1\CSharpProject1\obj\Debug\CSharpProject1.csproj.GenerateResource.Cache
+c:\users\eric\documents\visual studio 2013\Projects\CSharpProject1\CSharpProject1\bin\Debug\CSharpProject1.exe
+c:\users\eric\documents\visual studio 2013\Projects\CSharpProject1\CSharpProject1\bin\Debug\CSharpProject1.pdb
+c:\users\eric\documents\visual studio 2013\Projects\CSharpProject1\CSharpProject1\obj\Debug\CSharpProject1.exe
+c:\users\eric\documents\visual studio 2013\Projects\CSharpProject1\CSharpProject1\obj\Debug\CSharpProject1.pdb
+c:\users\eric\documents\visual studio 2013\Projects\CSharpProject1\CSharpProject1\bin\Debug\Database1.mdf
+c:\users\eric\documents\visual studio 2013\Projects\CSharpProject1\CSharpProject1\bin\Debug\Database1_log.ldf
+C:\Users\Eric\documents\visual studio 2013\Projects\CSharpProject1\CSharpProject1\obj\Debug\CSharpProject1.csprojResolveAssemblyReference.cache
