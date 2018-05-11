@@ -1,10 +1,12 @@
 C:\Users\mrg_3\Desktop\Phonebook\Phonebook\bin\Debug\Phonebook.exe.config
 C:\Users\mrg_3\Desktop\Phonebook\Phonebook\bin\Debug\Phonebook.exe
 C:\Users\mrg_3\Desktop\Phonebook\Phonebook\bin\Debug\Phonebook.pdb
-C:\Users\mrg_3\Desktop\Phonebook\Phonebook\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
 C:\Users\mrg_3\Desktop\Phonebook\Phonebook\obj\Debug\Phonebook.Form1.resources
 C:\Users\mrg_3\Desktop\Phonebook\Phonebook\obj\Debug\Phonebook.Properties.Resources.resources
 C:\Users\mrg_3\Desktop\Phonebook\Phonebook\obj\Debug\Phonebook.csproj.GenerateResource.cache
 C:\Users\mrg_3\Desktop\Phonebook\Phonebook\obj\Debug\Phonebook.csproj.CoreCompileInputs.cache
 C:\Users\mrg_3\Desktop\Phonebook\Phonebook\obj\Debug\Phonebook.exe
 C:\Users\mrg_3\Desktop\Phonebook\Phonebook\obj\Debug\Phonebook.pdb
+C:\Users\mrg_3\Desktop\Phonebook\Phonebook\obj\Debug\Phonebook.csprojAssemblyReference.cache
+C:\Users\mrg_3\Desktop\Phonebook\Phonebook\bin\Debug\Database1.mdf
+C:\Users\mrg_3\Desktop\Phonebook\Phonebook\bin\Debug\Database1_log.ldf
