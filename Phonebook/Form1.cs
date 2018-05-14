@@ -90,6 +90,11 @@ namespace Phonebook
             dataGridView1.Refresh();
         }
 
+        private void editButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
         private void Form1_Load(object sender, EventArgs e)
         {
             // This line of code loads data into the 'database1DataSet.Table' table. 
