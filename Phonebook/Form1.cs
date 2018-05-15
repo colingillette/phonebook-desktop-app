@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,7 +12,6 @@ namespace Phonebook
 {
     public partial class Form1 : Form
     {
-        // Allows access to database tools
         DataClasses1DataContext db = new DataClasses1DataContext();
 
         public Form1()
@@ -49,8 +48,14 @@ namespace Phonebook
             dataGridView1.Columns["Number"].Visible = true;
             saveButton.Enabled = true;
 
-            // Refresh the databsae
+            // Refresh the database
             dataGridView1.Refresh();
+        }
+
+        // Unused view within project
+        private void editToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
         }
 
         // Saves the data that has been inserted
@@ -74,32 +79,26 @@ namespace Phonebook
             dataGridView1.Refresh();
         }
 
-        // Searches the database for anything in the search bar
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            // TODO: This line of code loads data into the 'database1DataSet.Table' table. You can move, or remove it, as needed.
+            this.tableTableAdapter.Fill(this.database1DataSet.Table);
+
+        }
+
+        // Searches teh database for anything in the search bar
         private void searchButton_Click(object sender, EventArgs e)
         {
             string search = textBox1.Text;
 
-            //Creates an SQL query that will search both columns to find anything that 
-            //matches what the user types in.
+            // Creates an SQL query that will search both columns to find anything that matches input
             var query = from phone in db.Phones
                         where phone.Name.Contains(search) || phone.Number.Contains(search)
                         select phone;
 
-            //Change the source to the results of the query and then show them in the UI
+            // Change the source to the results of the query and tehn show them in the UI
             dataGridView1.DataSource = query;
             dataGridView1.Refresh();
-        }
-
-        private void editButton_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-            // This line of code loads data into the 'database1DataSet.Table' table. 
-            // It can be moved or removed as needed.
-            this.tableTableAdapter.Fill(this.database1DataSet.Table);
         }
     }
 }

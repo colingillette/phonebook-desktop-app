@@ -10,4 +10,3 @@ C:\Users\mrg_3\Desktop\Phonebook\Phonebook\obj\Debug\Phonebook.pdb
 C:\Users\mrg_3\Desktop\Phonebook\Phonebook\obj\Debug\Phonebook.csprojAssemblyReference.cache
 C:\Users\mrg_3\Desktop\Phonebook\Phonebook\bin\Debug\Database1.mdf
 C:\Users\mrg_3\Desktop\Phonebook\Phonebook\bin\Debug\Database1_log.ldf
-C:\Users\mrg_3\Desktop\Phonebook\Phonebook\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
